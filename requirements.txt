@@ -1,0 +1,5 @@
+qiskit[visualization]
+qiskit-aer
+numpy
+ipython
+notebook
